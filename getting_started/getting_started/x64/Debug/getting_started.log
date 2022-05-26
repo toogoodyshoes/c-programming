@@ -1,3 +1,2 @@
-﻿  hello_world.c
-  Source.cpp
-  getting_started.vcxproj -> D:\Projects\c-programming\getting_started\x64\Debug\getting_started.exe
+﻿temperature.obj : error LNK2005: main already defined in hello_world.obj
+D:\Projects\c-programming\getting_started\x64\Debug\getting_started.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -21,5 +21,8 @@
     <ClCompile Include="hello_world.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="temperature.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
