@@ -24,5 +24,8 @@
     <ClCompile Include="temperature.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="eof.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

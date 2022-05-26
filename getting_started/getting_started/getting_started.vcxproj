@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="eof.c" />
     <ClCompile Include="hello_world.c" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="temperature.c" />
